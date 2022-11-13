@@ -32,7 +32,7 @@ body{
 .header{
     position: relative;
     height: 768px;
-    background-image:url(img/kv-img.png);
+    background-image:url(kv-img.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
